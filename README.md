@@ -1,1 +1,1 @@
-# go-prac
+Go Practice Repo
